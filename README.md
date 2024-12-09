@@ -1,7 +1,5 @@
 # 📧 Cold Mail Generator
 
-**Imagine a scenario:**
-
 ![img.png](imgs/appscreenshot.png)
 
 ## Architecture Diagram
